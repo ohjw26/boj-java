@@ -34,8 +34,7 @@ public class Main {
             else {
                 bw.write("NO\n");
             }
-
-            bw.flush();
         }
+        bw.flush();
     }
 }
